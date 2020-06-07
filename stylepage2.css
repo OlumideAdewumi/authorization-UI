@@ -1,0 +1,9 @@
+.form-group {
+    position: relative;
+}
+
+.binocular {
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
+}
